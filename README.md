@@ -165,10 +165,12 @@ This project was developed as a team project.
 
 Special thanks to all team members who contributed to the planning, design, development, testing, and documentation of this project.
 
-* @contributor-1
-* @contributor-2
-* @contributor-3
-* @contributor-4
+* [@wedawesnawa](https://github.com/wedawesnawa)
+* [@Kmprayoga](https://github.com/Kmprayoga)
+* [@revanadityaprawira](https://github.com/revanadityaprawira)
+* [@SatryaMasyana](https://github.com/SatryaMasyana)
+* [@Yogananda2004](https://github.com/Yogananda2004)
+
 
 ---
 
@@ -377,7 +379,7 @@ npm run dev
 ### Terminal 3 — Flask Backend
 
 ```bash
-python app.py
+python run.py
 ```
 
 The local development architecture is:
