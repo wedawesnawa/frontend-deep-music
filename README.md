@@ -440,7 +440,8 @@ After successful authentication, Laravel stores the required user information in
 Additional project documentation and UI/UX design:
 
 * **Figma:** [Deep Music Figma](https://www.figma.com/design/zmZ5mHpB7X5ZYcii8bYFOY/Project-Deep-Learning--Copy-?node-id=1-6016&t=n2pLmWluOG5JXFFw-1)
-* **GitHub:** Add the main repository link here.
+* **GitHub:** [Frontend](https://github.com/Deep-Learning-Team-04/Frontend).
+* **Backend:** [Backend Repo](https://github.com/Deep-Learning-Team-04/Backend)
 
 ---
 
