@@ -216,7 +216,7 @@ Make sure the following tools are installed on your system:
 ### 1. Clone the Repository
 
 ```bash
-git clone <REPOSITORY_URL>
+git clone https://github.com/wedawesnawa/frontend-deep-music.git
 cd Frontend
 ```
 
